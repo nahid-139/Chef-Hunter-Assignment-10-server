@@ -32,12 +32,12 @@ app.get('/recipes/:id', (req, res) => {
         res.send(recipes)
     }
     else {
-        const categoryRecipes = news.filter(n => parseInt(n.category_id) === id);
+        const categoryRecipes = recipes.filter(n => parseInt(n.id) === id);
         res.send(categoryRecipes)
     }
 
 })
 
 app.listen(port, () => {
-    console.log(`Dragon API is running on port: ${port}`)
+    console.log(`Chef Recipe API is running on port: ${port}`)
 })
