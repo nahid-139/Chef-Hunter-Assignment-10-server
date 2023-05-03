@@ -1,0 +1,151 @@
+[
+    {
+        "id": 1,
+        "name": "Butter Chicken",
+        "img_url": "https://hips.hearstapps.com/hmg-prod/images/tandoori-chicken1-1672868376.jpg?crop=0.888695652173913xw:1xh;center,top&resize=1200:*",
+        "description": "Butter chicken is a popular Indian dish made with marinated chicken cooked in a tomato-based sauce with spices and cream.",
+        "ingredients": [
+            "1 kg chicken",
+            "1 cup yogurt",
+            "2 tbsp ginger-garlic paste",
+            "1 tsp red chili powder",
+            "1 tsp turmeric powder",
+            "1 tsp garam masala",
+            "1 tsp cumin powder",
+            "2 tbsp butter",
+            "1 cup tomato puree",
+            "1 cup cream",
+            "Salt to taste"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Chicken Tikka Masala",
+        "img_url": "https://www.flavoursonplate.com/wp-content/uploads/2019/03/Butter-naan.jpg",
+        "description": "Chicken tikka masala is a popular Indian dish made with marinated chicken cooked in a tomato-based sauce with spices and cream.",
+        "ingredients": [
+            "1 kg chicken",
+            "1 cup yogurt",
+            "2 tbsp ginger-garlic paste",
+            "1 tsp red chili powder",
+            "1 tsp turmeric powder",
+            "1 tsp garam masala",
+            "1 tsp cumin powder",
+            "2 tbsp butter",
+            "1 cup tomato puree",
+            "1 cup cream",
+            "Salt to taste"
+        ],
+        "instructions": [
+            "Marinate the chicken with yogurt, ginger-garlic paste, red chili powder, turmeric powder, garam masala, and cumin powder. Let it rest for at least 1 hour.",
+            "In a pan, melt butter and add tomato puree. Cook for 5-7 minutes until the puree thickens.",
+            "Add marinated chicken to the pan and cook for 10-15 minutes until the chicken is cooked through.",
+            "Add cream and salt to taste. Cook for 2-3 minutes and serve hot."
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Aloo Gobi",
+        "img_url": "https://www.seriouseats.com/thmb/DbQHUK2yNCALBnZE-H1M2AKLkok=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/chicken-tikka-masala-for-the-grill-recipe-hero-2_1-cb493f49e30140efbffec162d5f2d1d7.JPG",
+        "description": "Aloo gobi is a vegetarian Indian dish made with potatoes and cauliflower.",
+        "ingredients": [
+            "1 cauliflower, cut into florets",
+            "3 potatoes, peeled and cubed",
+            "2 tbsp oil",
+            "1 tsp cumin seeds",
+            "1 onion, finely chopped",
+            "1 tsp ginger-garlic paste",
+            "2 tomatoes, finely chopped",
+            "1 tsp turmeric powder",
+            "1 tsp red chili powder",
+            "1 tsp coriander powder",
+            "1 tsp cumin powder",
+            "Salt to taste",
+            "Coriander leaves for garnish"
+        ],
+        "instructions": [
+            "Heat oil in a pan and add cumin seeds. When they start to splutter, add chopped onions and sauté until they turn golden brown.",
+            "Add ginger-garlic paste and cook for a minute.",
+            "Add chopped tomatoes and cook until they turn soft.",
+            "Add turmeric powder, red chili powder, coriander powder, and cumin powder. Cook for a minute.",
+            "Add cubed potatoes and cauliflower florets. Mix well.",
+            "Add salt to taste and 1/2 cup of water. Mix well.",
+            "Cover and cook for 10-15 minutes until the vegetables are cooked through.",
+            "Garnish with coriander leaves and serve hot."
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Lobster Butter Masala",
+        "img_url": "https://images.food52.com/7f0yncraWeYUJG_lLbH2ie1xd6g=/2016x1344/d815e816-4664-472e-990b-d880be41499f--chicken-biryani-recipe.jpg",
+        "description": "Lobster butter masala is a seafood version of the popular butter chicken dish. The lobster is cooked in a creamy tomato-based sauce with spices and butter.",
+        "ingredients": [
+            "1 lb lobster meat, cooked and shelled",
+            "1 cup tomato puree",
+            "1 cup cream",
+            "1/2 cup butter",
+            "2 tbsp ginger-garlic paste",
+            "1 tsp red chili powder",
+            "1 tsp turmeric powder",
+            "1 tsp garam masala",
+            "1 tsp cumin powder",
+            "Salt to taste"
+        ],
+        "instructions": [
+            "In a pan, melt butter and add ginger-garlic paste. Cook for a minute.",
+            "Add tomato puree and cook for 5-7 minutes until the puree thickens.",
+            "Add red chili powder, turmeric powder, garam masala, and cumin powder. Cook for a minute.",
+            "Add cooked lobster meat and salt to taste. Cook for 2-3 minutes.",
+            "Add cream and cook for another 2-3 minutes.",
+            "Serve hot with rice or naan."
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Chicken Korma",
+        "img_url": "https://img.taste.com.au/HwCFDAHD/taste/2016/11/butter-chicken-with-naan-81484-1.jpeg",
+        "description": "Chicken korma is a rich, creamy Indian dish made with marinated chicken cooked in a fragrant sauce with yogurt, cream, and spices.",
+        "ingredients": [
+            "1 kg chicken",
+            "1 cup yogurt",
+            "2 tbsp ginger-garlic paste",
+            "1 tsp red chili powder",
+            "1 tsp turmeric powder",
+            "1 tsp garam masala",
+            "1 tsp cumin powder",
+            "2 tbsp ghee",
+            "1 onion, finely chopped",
+            "1 cup tomato puree",
+            "1 cup cream",
+            "Salt to taste"
+        ],
+        "instructions": [
+            "Marinate the chicken with yogurt, ginger-garlic paste, red chili powder, turmeric powder, garam masala, and cumin powder. Let it rest for at least 1 hour.",
+            "In a pan, heat ghee and add chopped onions. Sauté until they turn golden brown.",
+            "Add tomato puree and cook for 5-7 minutes until the puree thickens.",
+            "Add marinated chicken to the pan and cook for 10-15 minutes until the chicken is cooked through.",
+            "Add cream and salt to taste. Cook for 2-3 minutes and serve hot."
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Spherified Olives",
+        "img_url": "https://iamhomesteader.com/wp-content/uploads/2021/09/butter-chicken-bite.jpg",
+        "description": "Spherified olives are a signature dish at Gaggan. The dish consists of small olives that have been turned into small, liquid-filled spheres using a technique called spherification.",
+        "ingredients": [
+            "100g green olives",
+            "500ml water",
+            "2g sodium alginate",
+            "500ml water",
+            "5g calcium chloride"
+        ],
+        "instructions": [
+            "Make a solution of water and sodium alginate. Mix well and let it rest for 30 minutes.",
+            "Purée the green olives and add them to the solution. Mix well.",
+            "Fill a syringe with the olive mixture.",
+            "Make a solution of water and calcium chloride.",
+            "Slowly release the olive mixture from the syringe into the calcium chloride solution. The olive mixture will form small, liquid-filled spheres.",
+            "Let the spheres rest in the calcium chloride solution for 3-4 minutes. Rinse with water and serve."
+        ]
+    }
+]

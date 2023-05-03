@@ -1,0 +1,97 @@
+[
+    {
+        "id": "1",
+        "name": "Sanjeev Kapoor",
+        "specialty": "Indian cuisine",
+        "nationality": "Indian",
+        "experience_years": 45,
+        "bio": "Sanjeev Kapoor is an Indian celebrity chef, entrepreneur, and television personality. He is widely known for his cooking show 'Khana Khazana', which is the longest-running show of its kind in Asia.",
+        "description": "Sanjeev Kapoor is a renowned chef and has authored several cookbooks. He has also served as a judge on the popular cooking competition show 'MasterChef India'.",
+        "img_url": "https://assets.thehansindia.com/h-upload/2020/07/09/982680-chef-sanjeev-kapoor.webp",
+        "recipe_url":"https://hips.hearstapps.com/hmg-prod/images/tandoori-chicken1-1672868376.jpg?crop=0.888695652173913xw:1xh;center,top&resize=1200:*",
+        "famous_recipes": [
+            "Butter Chicken",
+            "Chole Bhature",
+            "Daal Makhani"
+        ]
+    },
+    {
+        "id": "2",
+        "name": "Vikas Khanna",
+        "specialty": "Indian and Western cuisine",
+        "nationality": "Indian",
+        "experience_years": 25,
+        "bio": "Vikas Khanna is an Indian Michelin star chef, restaurateur, cookbook writer, filmmaker, humanitarian and the host of MasterChef India season 2. He has also been featured in the US TV show MasterChef and has been a judge on several cooking shows including MasterChef India and Twist of Taste.",
+        "description": "Vikas Khanna is the executive chef of Junoon, a restaurant in New York City, and the author of several cookbooks including 'The Flavors of Spice' and 'My Great India Cookbook'. He has also served as the official chef for the President of India at the Rashtrapati Bhavan.",
+        "img_url": "https://www.greavesindia.com/wp-content/uploads/2016/07/chef-vikas-khanna.jpeg",
+        "recipe_url":"https://www.flavoursonplate.com/wp-content/uploads/2019/03/Butter-naan.jpg",
+        "famous_recipes": [
+            "Chicken Tikka Masala",
+            "Palak Paneer",
+            "Butter Naan"
+        ]
+    },
+    {
+        "id": "3",
+        "name": "Tarla Dalal",
+        "specialty": "Indian cuisine",
+        "nationality": "Indian",
+        "experience_years": 50,
+        "bio": "Tarla Dalal was an Indian chef and cookbook author who specialized in vegetarian cuisine. She wrote more than 100 cookbooks and hosted several cooking shows on television.",
+        "description": "Tarla Dalal was known for her simple and easy-to-follow recipes that emphasized healthy eating. Her recipes were popular among both vegetarians and non-vegetarians.",
+        "img_url": "https://www.shethepeople.tv/wp-content/uploads/2022/01/Tarla-Dalal-1.jpg",
+        "recipe_url":"https://www.seriouseats.com/thmb/DbQHUK2yNCALBnZE-H1M2AKLkok=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/chicken-tikka-masala-for-the-grill-recipe-hero-2_1-cb493f49e30140efbffec162d5f2d1d7.JPG",
+        "famous_recipes": [
+            "Paneer Tikka",
+            "Biryani",
+            "Kulfi"
+        ]
+    },
+    {
+        "id": "4",
+        "name": "Ranveer Brar",
+        "specialty": "Indian cuisine",
+        "nationality": "Indian",
+        "experience_years": 60,
+        "bio": "Ranveer Brar is an Indian celebrity chef and restaurateur. He has hosted several TV shows and is known for his expertise in Indian and fusion cuisine.",
+        "description": "Ranveer Brar has worked in various kitchens around the world, including Michelin-starred restaurants in Europe. He owns several restaurants in India and is also an author of multiple cookbooks.",
+        "img_url": "https://assets.telegraphindia.com/telegraph/2022/Dec/1672315886_ranveer-profile-1-cms.jpg",
+        "recipe_url":"https://images.food52.com/7f0yncraWeYUJG_lLbH2ie1xd6g=/2016x1344/d815e816-4664-472e-990b-d880be41499f--chicken-biryani-recipe.jpg",
+        "famous_recipes": [
+            "Butter Chicken",
+            "Mutton Rogan Josh",
+            "Chicken Biryani"
+        ]
+    },
+    {
+        "id": "5",
+        "name": "Saransh Goila",
+        "specialty": "Indian cuisine",
+        "nationality": "Indian",
+        "experience_years": 20,
+        "bio": "Madhur Jaffrey is an Indian-born actress, food and travel writer, and television personality. She is known for bringing Indian cuisine to the western world through her cookbooks and television shows.",
+        "description": "Madhur Jaffrey has authored several cookbooks and has been awarded numerous culinary awards. She has also appeared in several films and television shows, both in India and abroad.",
+        "img_url": "https://static.businessworld.in/article/article_extra_large_image/1509816647_kTUtmG_Saransh-Goila.jpg",
+        "recipe_url":"https://img.taste.com.au/HwCFDAHD/taste/2016/11/butter-chicken-with-naan-81484-1.jpeg",
+        "famous_recipes": [
+            "Butter Chicken",
+            "Tandoori Chicken",
+            "Pav Bhaji"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Gaggan Anand",
+        "nationality": "Indian",
+        "experience_years": 30,
+        "bio": "Gaggan Anand is a highly acclaimed Indian chef who is known for his modernist approach to Indian cuisine. He is the owner and chef of Gaggan, a restaurant in Bangkok, Thailand, which has been ranked as the best restaurant in Asia on multiple occasions.",
+        "description": "Gaggan Anand has won numerous awards for his innovative and boundary-pushing approach to Indian cuisine. He draws inspiration from his Indian heritage and combines it with modern techniques to create dishes that are both visually stunning and incredibly flavorful.",
+        "img_url": "https://www.caterermiddleeast.com/2021/05/Tid3plft-Gaggan-Anand-SPYC.jpg",
+        "recipe_url":"https://iamhomesteader.com/wp-content/uploads/2021/09/butter-chicken-bite.jpg",
+        "famous_recipes": [
+            "Butter Chicken",
+            "Tandoori Chicken",
+            "Pav Bhaji"
+        ]
+    }
+]
