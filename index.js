@@ -22,17 +22,18 @@ app.get('/recipes', (req, res) => {
 
 app.get('/chef/:id', (req, res) => {
     const id = req.params.id;
-    const selectedChef = news.find(n => n._id === id);
+    const selectedChef = chef.find(n => n.id === id);
     res.send(selectedChef)
 })
 
 app.get('/recipes/:id', (req, res) => {
     const id = parseInt(req.params.id);
+    console.log(id)
     if (id === 0) {
         res.send(recipes)
     }
     else {
-        const categoryRecipes = recipes.filter(n => parseInt(n.id) === id);
+        const categoryRecipes = recipes.find(n => parseInt(n.id) === id);
         res.send(categoryRecipes)
     }
 
