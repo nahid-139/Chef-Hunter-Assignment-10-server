@@ -9,7 +9,7 @@ const recipes = require('./recipes.json');
 app.use(cors());
 
 app.get('/', (req, res) => {
-    res.send('Dragon is running')
+    res.send('Chef Custody is running')
 });
 
 app.get('/chef', (req, res) => {
